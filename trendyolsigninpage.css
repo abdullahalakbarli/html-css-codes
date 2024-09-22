@@ -1,0 +1,37 @@
+    .enter {
+        display: block;
+    }
+    .enter-with-google, .enter-with-facebook {
+        display: inline-block;
+    }
+    .password-reput {
+        color: rgb(51,51,51);
+        font-size: 14px;
+        display: block;
+        font-weight: 400;
+        text-decoration: underline;
+    }
+    .password-reput:hover {
+        color: orange;
+    }
+    .tiklayiniz {
+        text-decoration: underline;
+    }
+    .enter {
+        background-color: #F27A1A;
+        font-size: 16px;
+        border-radius: 4px;
+        padding-right: 10px;
+        padding-left: 10px;
+        padding-top: 1px;
+        padding-bottom: 1px;
+        color: white;
+        cursor: pointer;
+        height: 43.9px;
+        width: 333.82px;
+        border: none;
+        box-shadow: ;
+    }
+    .enter:hover {
+        background-color: #ff8b39;
+    }
